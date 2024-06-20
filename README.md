@@ -4,6 +4,9 @@
 Programa gratuito promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://www.rocketseat.com.br/discover">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
+<p align="center">
+<a href="https://fonsecaw.github.io/discover/">Link final da Atividade.</a>
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
